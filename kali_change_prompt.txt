@@ -1,0 +1,6 @@
+Customize the terminal :
+
+Change those variables in .bashrc and .zshrc
+
+PROMPT_ALTERNATIVE=oneline
+NEWLINE_BEFORE_PROMPT=no
