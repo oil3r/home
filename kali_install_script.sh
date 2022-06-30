@@ -45,3 +45,6 @@ sudo apt install -y rlwrap
 
 BLUE "Installing seclists..."
 sudo apt install -y seclists
+
+BLUE "Installing kolourpaint..."
+sudo apt install -y kolourpaint
